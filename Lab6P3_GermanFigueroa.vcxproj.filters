@@ -21,9 +21,15 @@
     <ClCompile Include="Personaje.cpp">
       <Filter>Archivos de encabezado</Filter>
     </ClCompile>
+    <ClCompile Include="Humano.cpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Personaje.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Humano.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>

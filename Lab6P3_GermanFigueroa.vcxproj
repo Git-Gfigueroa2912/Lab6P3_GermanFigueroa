@@ -142,8 +142,10 @@
     <ClCompile Include="Lab6P3_GermanFigueroa.cpp" />
     <ClCompile Include="Personaje.cpp" />
     <ClCompile Include="Humano.cpp" />
+    <ClCompile Include="Super.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Inventario.h" />
     <ClInclude Include="Super.h" />
     <ClInclude Include="Humano.h" />
     <ClInclude Include="Personaje.h" />

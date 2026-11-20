@@ -24,6 +24,9 @@
     <ClCompile Include="Humano.cpp">
       <Filter>Archivos de encabezado</Filter>
     </ClCompile>
+    <ClCompile Include="Super.cpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Personaje.h">
@@ -33,6 +36,9 @@
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
     <ClInclude Include="Super.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventario.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>

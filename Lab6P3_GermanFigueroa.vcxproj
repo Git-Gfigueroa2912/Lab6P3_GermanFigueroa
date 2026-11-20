@@ -144,6 +144,7 @@
     <ClCompile Include="Humano.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Super.h" />
     <ClInclude Include="Humano.h" />
     <ClInclude Include="Personaje.h" />
   </ItemGroup>
